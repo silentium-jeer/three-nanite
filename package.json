@@ -4,6 +4,8 @@
   "description": "Nanite-style virtual geometry (cluster LOD DAG) for three.js: an offline GLB preprocessor and a WebGL2 runtime that works with stock materials.",
   "type": "module",
   "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/apekshik/three-nanite.git" },
+  "homepage": "https://github.com/apekshik/three-nanite#readme",
   "keywords": ["three", "threejs", "nanite", "virtual-geometry", "cluster-lod", "lod", "meshlets", "meshoptimizer", "webgl"],
   "main": "./src/index.js",
   "module": "./src/index.js",

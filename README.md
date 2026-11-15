@@ -42,7 +42,7 @@ If your target is WebGPU only, look at [three-virtual-geometry](https://github.c
 ## Install
 
 ```bash
-npm install three-nanite three
+npm install github:apekshik/three-nanite three
 ```
 
 `three` is a peer dependency (0.186 or newer). Node 20 or newer for the CLI.
@@ -112,7 +112,7 @@ The data folder can be served by anything. Streaming additionally needs a host t
 ## Demo
 
 ```bash
-git clone <this repository>
+git clone https://github.com/apekshik/three-nanite.git
 ```
 
 ```bash
